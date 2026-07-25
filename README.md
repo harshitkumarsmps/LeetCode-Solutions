@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0556-next-greater-element-iii](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0556-next-greater-element-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -61,5 +62,10 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0556-next-greater-element-iii](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0556-next-greater-element-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+## Math
+|  |
+| ------- |
+| [0556-next-greater-element-iii](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0556-next-greater-element-iii) |
 <!---LeetCode Topics End-->
