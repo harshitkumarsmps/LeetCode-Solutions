@@ -31,17 +31,20 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 ## Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0234-palindrome-linked-list](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 ## Linked List
 |  |
 | ------- |
