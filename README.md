@@ -31,6 +31,7 @@
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
@@ -70,4 +71,12 @@
 |  |
 | ------- |
 | [0556-next-greater-element-iii](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0556-next-greater-element-iii) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
