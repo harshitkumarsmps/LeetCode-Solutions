@@ -12,6 +12,7 @@
 | [0008-string-to-integer-atoi](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0451-sort-characters-by-frequency](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0556-next-greater-element-iii](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0556-next-greater-element-iii) |
+| [0844-backspace-string-compare](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 ## Sorting
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | [0234-palindrome-linked-list](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0844-backspace-string-compare](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -70,6 +72,7 @@
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0556-next-greater-element-iii](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0556-next-greater-element-iii) |
+| [0844-backspace-string-compare](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
@@ -108,4 +111,8 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
