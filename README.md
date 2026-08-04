@@ -9,6 +9,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0451-sort-characters-by-frequency](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0556-next-greater-element-iii](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0556-next-greater-element-iii) |
@@ -70,6 +71,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0234-palindrome-linked-list](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0556-next-greater-element-iii](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0556-next-greater-element-iii) |
 | [0844-backspace-string-compare](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
@@ -115,4 +117,12 @@
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
