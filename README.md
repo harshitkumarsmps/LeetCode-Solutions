@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0977-squares-of-a-sorted-array](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Stack
 |  |
 | ------- |
@@ -68,6 +70,7 @@
 | [0234-palindrome-linked-list](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0556-next-greater-element-iii](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0556-next-greater-element-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
 | ------- |
