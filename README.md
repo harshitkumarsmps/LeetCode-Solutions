@@ -6,6 +6,7 @@
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## String
 |  |
 | ------- |
@@ -14,6 +15,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0556-next-greater-element-iii](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0556-next-greater-element-iii) |
 | [0844-backspace-string-compare](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Sorting
 |  |
 | ------- |
@@ -31,6 +33,7 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Array
 |  |
 | ------- |
