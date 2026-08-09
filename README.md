@@ -46,6 +46,7 @@
 | [0503-next-greater-element-ii](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Stack
 |  |
 | ------- |
@@ -136,5 +137,6 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
