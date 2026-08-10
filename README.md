@@ -6,6 +6,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0451-sort-characters-by-frequency](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -90,6 +91,7 @@
 | [0141-linked-list-cycle](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0556-next-greater-element-iii](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0556-next-greater-element-iii) |
 | [0844-backspace-string-compare](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0844-backspace-string-compare) |
@@ -98,6 +100,7 @@
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0556-next-greater-element-iii](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0556-next-greater-element-iii) |
 ## Backtracking
 |  |
@@ -163,4 +166,5 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
