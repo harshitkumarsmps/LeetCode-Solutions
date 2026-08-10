@@ -21,6 +21,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0451-sort-characters-by-frequency](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0977-squares-of-a-sorted-array](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Heap (Priority Queue)
@@ -39,6 +40,7 @@
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0039-combination-sum](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -80,6 +82,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0016-3sum-closest](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0151-reverse-words-in-a-string](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0556-next-greater-element-iii](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0556-next-greater-element-iii) |
