@@ -49,6 +49,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0039-combination-sum](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0039-combination-sum) |
+| [0048-rotate-image](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0078-subsets](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0152-maximum-product-subarray](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
@@ -108,6 +109,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0556-next-greater-element-iii](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0556-next-greater-element-iii) |
 ## Backtracking
@@ -179,4 +181,8 @@
 | [0141-linked-list-cycle](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0202-happy-number) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
