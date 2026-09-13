@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0016-3sum-closest) |
+| [0148-sort-list](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0451-sort-characters-by-frequency](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0977-squares-of-a-sorted-array](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Heap (Priority Queue)
@@ -83,6 +84,7 @@
 | [0092-reverse-linked-list-ii](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
@@ -101,6 +103,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
@@ -187,4 +190,12 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0048-rotate-image) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/harshitkumarsmps/LeetCode-Solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
